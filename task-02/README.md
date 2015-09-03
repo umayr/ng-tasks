@@ -1,6 +1,8 @@
+### Task 02
+
 Click here and fork the [plunk](http://plnkr.co/edit/zEEAp84GgBVLk9J0jIp8?p=preview)
 
-###The Data
+#### The Data
 Your data is available on a scope variable called countries. countries is an array of objects. The objects are of the form:
 
 ```
@@ -12,7 +14,7 @@ code: country code
 Years 1960 to 2012 are covered.
 ```
 
-###Requirements
+#### Requirements
 Using only built-in filters and directives, modify the template so that you have a table displaying a row for each country in countries. 
 
 - Each row should contain the following:
